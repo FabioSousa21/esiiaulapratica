@@ -5,6 +5,6 @@ package gitexample;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Im so lonely");
+        Greeter.greet("World");
     }
 }
